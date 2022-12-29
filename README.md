@@ -30,7 +30,7 @@ s2=temp
 print("Swapped values are: {} {}".format(s1,s2))
 ```
 ## Output:
-![label](swap2var.png)
+![label](./swap2var.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
